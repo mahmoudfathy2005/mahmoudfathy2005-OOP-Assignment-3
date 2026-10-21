@@ -1,4 +1,4 @@
-﻿namespace ASS3_OOP
+﻿namespace Generics
 {
     internal class Program
     {

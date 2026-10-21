@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASS3 OOP", "ASS3 OOP\ASS3 OOP.csproj", "{241FE91E-5D9F-420E-9FD1-AC1406F5CD81}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsApp", "Collections\src\CollectionsApp.csproj", "{9AD06EA6-D215-20A7-9DDA-DF1BB6CDAC74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\src\Generics\Generics.csproj", "{752A05F9-1447-4F17-8F3B-F1B3A4D1E548}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{241FE91E-5D9F-420E-9FD1-AC1406F5CD81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{241FE91E-5D9F-420E-9FD1-AC1406F5CD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{241FE91E-5D9F-420E-9FD1-AC1406F5CD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{241FE91E-5D9F-420E-9FD1-AC1406F5CD81}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9AD06EA6-D215-20A7-9DDA-DF1BB6CDAC74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9AD06EA6-D215-20A7-9DDA-DF1BB6CDAC74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AD06EA6-D215-20A7-9DDA-DF1BB6CDAC74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AD06EA6-D215-20A7-9DDA-DF1BB6CDAC74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752A05F9-1447-4F17-8F3B-F1B3A4D1E548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752A05F9-1447-4F17-8F3B-F1B3A4D1E548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752A05F9-1447-4F17-8F3B-F1B3A4D1E548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752A05F9-1447-4F17-8F3B-F1B3A4D1E548}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
