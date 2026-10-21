@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Generics;
 
 public class Store<T>
+    where T : IHasId
 {
     private readonly List<T> _items = new();
 
